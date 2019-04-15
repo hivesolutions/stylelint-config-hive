@@ -1,6 +1,6 @@
 {
     "name": "stylelint-config-hive",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Simple StyleLint configuration for Hive Solutions",
     "keywords": [
         "config",
