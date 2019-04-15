@@ -1,3 +1,3 @@
 # Stylelint Hive Configuration
 
-The Hive Solutions [stylelint](https://stylelint.io/) configuration.
+Simple [stylelint](https://stylelint.io) configuration for Hive Solutions
