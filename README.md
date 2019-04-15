@@ -1,2 +1,3 @@
-# stylelint_hive
-The Hive Solutions stylelint configuration
+# Stylelint Hive Configuration
+
+The Hive Solutions [stylelint](https://stylelint.io/) configuration.
