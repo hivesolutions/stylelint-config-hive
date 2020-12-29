@@ -16,10 +16,10 @@
     },
     "license": "Apache-2.0",
     "author": "Hive Solutions",
+    "main": "index.js",
     "files": [
         "index.js"
     ],
-    "main": "index.js",
     "scripts": {
         "prettier": "prettier \"./**/*.{js,json}\" --write",
         "upgrade": "npx sort-package-json && ncu -u"
@@ -29,14 +29,9 @@
         "stylelint-order": "^4.1.0"
     },
     "devDependencies": {
-        "npm-check-updates": "^9.2.4",
-        "prettier": "^2.1.2",
+        "npm-check-updates": "^10.2.5",
+        "prettier": "^2.2.1",
         "prettier-config-hive": "^0.1.7",
-        "sort-package-json": "^1.46.1"
-    },
-    "peerDependencies": {
-        "stylelint": "^13.7.2",
-        "stylelint-config-standard": "^20.0.0",
-        "stylelint-order": "^4.1.0"
+        "sort-package-json": "^1.48.0"
     }
 }
