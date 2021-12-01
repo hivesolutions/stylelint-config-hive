@@ -1,5 +1,9 @@
 module.exports = {
-    extends: ["stylelint-config-standard"],
+    extends: [
+        "stylelint-config-standard",
+        "stylelint-config-standard-scss",
+        "stylelint-config-html/vue"
+    ],
     plugins: ["stylelint-order"],
     rules: {
         indentation: 4,
@@ -18,6 +22,16 @@ module.exports = {
         "no-empty-source": null,
         "no-descending-specificity": null,
         "rule-empty-line-before": "always",
+        "shorthand-property-no-redundant-values": null,
+        "property-no-vendor-prefix": null,
+        "at-rule-no-vendor-prefix": null,
+        "value-no-vendor-prefix": null,
+        "selector-no-vendor-prefix": null,
+        "font-family-name-quotes": "always-unless-keyword",
+        "alpha-value-notation": "number",
+        "color-function-notation": "legacy",
+        "scss/dollar-variable-empty-line-before": null,
+        "scss/at-import-partial-extension": null,
         "selector-pseudo-element-no-unknown": [
             true,
             {
