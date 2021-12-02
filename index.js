@@ -23,6 +23,7 @@ module.exports = {
         "length-zero-no-unit": null,
         "order/order": ["declarations", "custom-properties"],
         "order/properties-alphabetical-order": true,
+        "max-line-length": 180,
         "no-empty-source": null,
         "no-descending-specificity": null,
         "property-no-vendor-prefix": null,
