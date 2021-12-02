@@ -13,11 +13,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-* Moved `dependencies` to `peerDependencies`
+*
 
 ### Fixed
 
 *
+
+## [1.0.0] - 2021-12-02
+
+### Changed
+
+* Moved `dependencies` to `peerDependencies`
 
 ## [0.4.2] - 2021-12-02
 
