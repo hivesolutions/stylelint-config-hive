@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-* The `"max-line-length": 180` rule
+*
 
 ### Changed
 
@@ -18,6 +18,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 *
+
+## [0.4.2] - 2021-12-02
+
+### Added
+
+* The `"max-line-length": 180` rule
 
 ## [0.4.1] - 2021-12-02
 
