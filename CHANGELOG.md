@@ -13,8 +13,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-* Structure of the stylelint source files to make it compatible with the new stylelint
+*
 
 ### Fixed
 
 *
+
+## [0.3.0] - 2021-12-02
+
+### Changed
+
+* Structure of the stylelint source files to make it compatible with the new stylelint
