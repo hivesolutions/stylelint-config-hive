@@ -6,13 +6,13 @@
         "config",
         "stylelint"
     ],
-    "homepage": "https://github.com/hivesolutions/stylelint_config_hive#readme",
+    "homepage": "https://github.com/hivesolutions/stylelint-config-hive#readme",
     "bugs": {
-        "url": "https://github.com/hivesolutions/stylelint_config_hive/issues"
+        "url": "https://github.com/hivesolutions/stylelint-config-hive/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hivesolutions/stylelint_config_hive.git"
+        "url": "git+https://github.com/hivesolutions/stylelint-config-hive.git"
     },
     "license": "Apache-2.0",
     "author": "Hive Solutions",
